@@ -88,7 +88,7 @@ h3 {
 
 .contenar div.active h3 {
     opacity: 1;
-    transition: opacity 0.3s;
+    transition: opacity 0.3s ease-in 0.4s;
 }
 
 /* Active Responcive Now */
