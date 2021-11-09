@@ -1,7 +1,8 @@
-<h1 style='font-size: 40px' align="center">
+<h1 style='font-size: 40px' align="center"></h1>
 </br>
-   Project Damo. <img src="Images/Screenshot_1.png" alt="Project Damo">
-</h1><br/><br/>
+</br>
+   Project Damo. <img style='align="center" src="Images/Screenshot_1.png" alt="Project Damo">
+<br/><br/>
 
 ## Used here
 * Html (Hypertext Markup Language)
